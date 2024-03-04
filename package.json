@@ -22,7 +22,7 @@
   "author": "Nick Luo (https://github.com/nluo)",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.88.3"
+    "request": "2.88.2"
   },
   "devDependencies": {
     "fraudster": "^1.0.0",
